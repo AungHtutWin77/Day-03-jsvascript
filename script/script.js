@@ -24,3 +24,4 @@ window.addEventListener('load', function(){
     let getAllTag = document.querySelectorAll('h2')
     console.log(getAllTag, 'Get all tag')
 })
+
